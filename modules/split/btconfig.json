@@ -1,0 +1,9 @@
+{
+  "tokens": [
+    ["dev", 8, "#7133a3", { "owner": "name"}],
+    ["admin", 7, "#ffff80"],
+    ["Staff", 6, "#70d1f4"],
+    ["ST", 2, "#ffff80"],
+    ["BT", 1, "#ffff80"]
+  ]
+}
