@@ -1,0 +1,18 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "eris": "latest",
+    "google-closure-library": "latest",
+    "ws": "latest",
+    "user-ip": "latest",
+    "@sarequl/client-ip-details": "latest",
+    "node-fetch": "2.6.6"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "GPL-3.0"
+}
